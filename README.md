@@ -5,10 +5,10 @@
 💼 Experienced Full Stack Developer and Software Engineer  
 🔗 [LinkedIn](https://www.linkedin.com/in/keerthanaksrinivasan)
 
-##🚀 About Me
+## 🚀 About Me
 I'm a passionate software engineer with expertise in full-stack development, blockchain, and mobile app development. I thrive on solving complex problems and creating seamless user experiences.
 
-##👩‍💻 Skills
+## 👩‍💻 Skills
 
   🌐 Web Development
     - Languages: Python, JavaScript, TypeScript, Java, HTML, CSS, SQL
