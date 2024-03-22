@@ -8,21 +8,21 @@
 🚀 About Me
 I'm a passionate software engineer with expertise in full-stack development, blockchain, and mobile app development. I thrive on solving complex problems and creating seamless user experiences.
 
-💪 Skills
+👩‍💻 Skills
 
-🌐 Web Development
-  - Languages: Python, JavaScript, TypeScript, Java, HTML, CSS, SQL
-  - Frameworks/Libraries: React, Next.js, Redux, Mobx, Django, jQuery, NodeJS, ExpressJS, Bootstrap, NumPy, Pandas
+  🌐 Web Development
+    - Languages: Python, JavaScript, TypeScript, Java, HTML, CSS, SQL
+    - Frameworks/Libraries: React, Next.js, Redux, Mobx, Django, jQuery, NodeJS, ExpressJS, Bootstrap, NumPy, Pandas
+    
+  📱 Mobile Development
+    - Swift, React Native
   
-📱 Mobile Development
-  - Swift, React Native
-
-⛓️ Blockchain(budding enthusiast)
-  - Solidity, Hardhat, Foundry
-
-🗄️ Databases
-  - MongoDB, MySQL, PostgreSQL, Firebase, NoSQL
-  - Tools: Git, Redis, Google Dialog Flow, Docker, GCP, Athena
+  ⛓️ Blockchain(budding enthusiast)
+    - Solidity, Hardhat, Foundry
+  
+  🗄️ Databases
+    - MongoDB, MySQL, PostgreSQL, Firebase, NoSQL
+    - Tools: Git, Redis, Google Dialog Flow, Docker, GCP, Athena
 
 ## Connect With Me
 
