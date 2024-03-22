@@ -1,14 +1,14 @@
-#### Hello 👋
+## Hello 👋
 
 📍 Boston, MA  
 🎓 Pursuing Masters in Software Engineering Systems @ Northeastern University  
 💼 Experienced Full Stack Developer and Software Engineer  
 🔗 [LinkedIn](https://www.linkedin.com/in/keerthanaksrinivasan)
 
-## 🚀 About Me
+### 🚀 About Me
 I'm a passionate software engineer with expertise in full-stack development, blockchain, and mobile app development. I thrive on solving complex problems and creating seamless user experiences.
 
-## 👩‍💻 Skills
+### 👩‍💻 Skills
 
   🌐 Web Development
     - Languages: Python, JavaScript, TypeScript, Java, HTML, CSS, SQL
@@ -24,7 +24,7 @@ I'm a passionate software engineer with expertise in full-stack development, blo
     - MongoDB, MySQL, PostgreSQL, Firebase, NoSQL
     - Tools: Git, Redis, Google Dialog Flow, Docker, GCP, Athena
 
-## Connect With Me
+### Connect With Me
 
 Let's get in touch! Explore my projects here and connect with me on LinkedIn for collaborations or just to say hi!
 
