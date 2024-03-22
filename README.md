@@ -5,9 +5,22 @@
 💼 Experienced Full Stack Developer and Software Engineer  
 🔗 [LinkedIn](https://www.linkedin.com/in/keerthanaksrinivasan)
 
-## About Me
+🚀 About Me
+I'm a passionate software engineer with expertise in full-stack development, blockchain, and mobile app development. I thrive on solving complex problems and creating seamless user experiences.
 
-Hi there! I'm Keerthana, a tech enthusiast with a strong foundation in software engineering and a knack for building impactful digital solutions. I'm passionate about leveraging technology to solve real-world problems.
+### Web Development
+- Languages: Python, JavaScript, TypeScript, Java, HTML, CSS, SQL
+- Frameworks/Libraries: React, Next.js, Redux, Mobx, Django, jQuery, NodeJS, ExpressJS, Bootstrap, NumPy, Pandas
+
+### Mobile Development
+- Swift, React Native
+
+### Blockchain(budding enthusiast)
+- Solidity, Hardhat, Foundry
+
+### Databases
+- MongoDB, MySQL, PostgreSQL, Firebase, NoSQL
+- Tools: Git, Redis, Google Dialog Flow, Docker, GCP, Athena
 
 ## What I Do
 
