@@ -1,7 +1,4 @@
 ## Hello 👋
- 
-💼 Experienced Full Stack Developer and Software Engineer  
-🔗 [LinkedIn](https://www.linkedin.com/in/keerthanaksrinivasan)
 
 ### 🚀 About Me
 I'm a passionate software engineer with expertise in full-stack development, blockchain, and mobile app development. I thrive on solving complex problems and creating seamless user experiences.
@@ -23,7 +20,7 @@ I'm a passionate software engineer with expertise in full-stack development, blo
     - Tools: AWS, Git, Redis, Google Dialog Flow, Docker, GCP, Athena
 
 ### Connect With Me
-
+[LinkedIn](https://www.linkedin.com/in/keerthanaksrinivasan)
 Let's get in touch! Explore my projects here and connect with me on LinkedIn for collaborations or just to say hi!
 
 
