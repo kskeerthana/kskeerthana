@@ -1,7 +1,5 @@
 ## Hello 👋
-
-📍 Boston, MA  
-🎓 Pursuing Masters in Software Engineering Systems @ Northeastern University  
+ 
 💼 Experienced Full Stack Developer and Software Engineer  
 🔗 [LinkedIn](https://www.linkedin.com/in/keerthanaksrinivasan)
 
@@ -21,8 +19,8 @@ I'm a passionate software engineer with expertise in full-stack development, blo
     - Solidity, Hardhat, Foundry
   
   🗄️ Databases
-    - MongoDB, MySQL, PostgreSQL, Firebase, NoSQL
-    - Tools: Git, Redis, Google Dialog Flow, Docker, GCP, Athena
+    - MongoDB, MySQL, PostgreSQL, Couchbase, Firebase, NoSQL
+    - Tools: AWS, Git, Redis, Google Dialog Flow, Docker, GCP, Athena
 
 ### Connect With Me
 
